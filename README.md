@@ -1,0 +1,3 @@
+# Mindnode Desktop
+
+Windows reference.
